@@ -17,6 +17,87 @@
 \endgroup
 
 \datalist[entry]{nty/global//global/global}
+  \entry{coltonkress2013}{book}{}
+    \name{author}{2}{}{%
+      {{hash=CD}{%
+         family={Colton},
+         familyi={C\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=KR}{%
+         family={Kress},
+         familyi={K\bibinitperiod},
+         given={Rainer},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{CDKR1}
+    \strng{fullhash}{CDKR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{title}{Inverse Acoustic and Electromagnetic Scattering Theory}
+    \field{volume}{93}
+    \field{journaltitle}{Applied Mathematical Sciences}
+    \field{year}{2013}
+  \endentry
+
+  \entry{hansen1988}{article}{}
+    \name{author}{1}{}{%
+      {{hash=HC}{%
+         family={Hansen},
+         familyi={H\bibinitperiod},
+         given={Christian},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HC1}
+    \strng{fullhash}{HC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{number}{1}
+    \field{pages}{117\bibrangedash 120}
+    \field{title}{The 2-norm of random matrices}
+    \field{volume}{23}
+    \field{journaltitle}{Journal of Computational and Applied Mathematics}
+    \field{year}{1988}
+  \endentry
+
+  \entry{kirschgrinberg2008}{book}{}
+    \name{author}{2}{}{%
+      {{hash=KA}{%
+         family={Kirsch},
+         familyi={K\bibinitperiod},
+         given={Andreas},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=GN}{%
+         family={Grinberg},
+         familyi={G\bibinitperiod},
+         given={Natalia},
+         giveni={N\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Oxford University Press}%
+    }
+    \strng{namehash}{KAGN1}
+    \strng{fullhash}{KAGN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{title}{The Factorization Method for Inverse Problems}
+    \field{year}{2008}
+  \endentry
+
   \entry{potthast2015}{book}{}
     \name{author}{2}{}{%
       {{hash=PR}{%

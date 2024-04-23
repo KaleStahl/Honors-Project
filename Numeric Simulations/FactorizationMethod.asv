@@ -20,6 +20,9 @@ function FactorizationMethod(name, noise_percent, N, ht, t, kappa, ffN, hff, tff
             y2     = 2*sin(t);
             dy1    = -4*sin(t);
             dy2    =  2*cos(t);
+        otherwise
+            warning('Unexpected scattering object.')
+            return
     end
     
     ymat1  = repmat(y1,N,1);                        % matrix version of domain points component 1
@@ -71,11 +74,19 @@ function FactorizationMethod(name, noise_percent, N, ht, t, kappa, ffN, hff, tff
     %% Setup farfield operator F
     
     F = -2*ffBW*BWinv*HD;
-    
+
+    %% Adds Noise
+    noise = false;
+    if(noise_percent ~= 0)
+        noise = true;
+    end
     if(noise)
-        F_p = F + (normrnd(0, noise_percent, size(F))).*F;
+        p = normrnd(0, norm(F, 2)*noise_percent/2/sqrt(max(size(F))), size(F));
+        F_p = F + p;
         F = F_p;
     end
+    
+    %%
     M1      = 70;                                   % number of points in x1 direction for evaluation
     M2      = 71;                                   % number of points in x2 direction for evaluation
     M       = M1*M2;                                % total number of evaluation points
@@ -93,6 +104,7 @@ function FactorizationMethod(name, noise_percent, N, ht, t, kappa, ffN, hff, tff
     pvec2   = reshape(q2mat,M,1);                   % definition of x2 coordinates of grid points
     
     %% Setup and evaluate far field pattern term f_z
+
     hmat1   = repmat(pvec1,1,ffN).*repmat(yff1,M,1);
     hmat2   = repmat(pvec2,1,ffN).*repmat(yff2,M,1);
     Phiinf  = exp(-1i*kappa*(hmat1 + hmat2)).';
@@ -108,35 +120,35 @@ function FactorizationMethod(name, noise_percent, N, ht, t, kappa, ffN, hff, tff
 
     %% Plotting reconstruction
 
-        fo   = figure;
-        if(quiet)
-            fo = figure("visible", 'off');
-        end
-        wmat = reshape(wLS,M2,M1);                      % prepare function in the format M2 x M1 points
-        so   = surf(q1,q2,abs(wmat));                   % plot surface of real part of potential
-        shading interp; 
-        %ao = get(so,'Parent');                          % graphics interpolated view
-        
-        hold on; 
-        p = plot3(y1,y2,ca*ones(size(y1)),'black--','MarkerSize', 6, 'Displayname', 'True Shape');
-        axis equal;
-        view(-20,50);     
-        view(2); 
-        axis([a1 b1 a2 b2 -2 ca+2]); 
-        colorbar('FontSize',14); 
-        
-        set(0,'defaulttextinterpreter','latex');
-        set(0,'defaultLineLineWidth',2);
-        set(0,'DefaultAxesFontSize',14);
-        set(0,'DefaultLegendInterpreter','latex');
-        set(gca,'TickLabelInterpreter','latex')
-        legend(p);
-        
-        %% Saves File
-        name_string = name;
-        if(noise_percent ~= 0)
-            append(name_string, "_", string(noise*100),  "%_noise");
-        end
-        saveas(fo, append(name_string, '_reconstructed.png')); 
+    fo   = figure;
+    if(quiet)
+        fo = figure('Visible', 'off');
+    end
+    wmat = reshape(wLS,M2,M1);                      % prepare function in the format M2 x M1 points
+    so   = surf(q1,q2,abs(wmat));                   % plot surface of real part of potential
+    shading interp; 
+    %ao = get(so,'Parent');                          % graphics interpolated view
+    
+    hold on; 
+    p = plot3(y1,y2,ca*ones(size(y1)),'black--','MarkerSize', 6, 'Displayname', 'True Shape');
+    axis equal;
+    view(-20,50);     
+    view(2); 
+    axis([a1 b1 a2 b2 -2 ca+2]); 
+    colorbar('FontSize',14); 
+    
+    set(0,'defaulttextinterpreter','latex');
+    set(0,'defaultLineLineWidth',2);
+    set(0,'DefaultAxesFontSize',14);
+    set(0,'DefaultLegendInterpreter','latex');
+    set(gca,'TickLabelInterpreter','latex')
+    legend(p);
+    
+    %% Saves File
+    name_string = name;
+    if(noise_percent ~= 0)
+        name_string = append(name_string, "-", string(noise_percent*100),  "-noise");
+    end
+    saveas(fo, append([pwd '/Images/'], name_string, '-reconstructed.png'), 'png'); 
 
 end

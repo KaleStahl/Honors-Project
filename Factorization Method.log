@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2023.4.14)  5 MAR 2024 20:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2023.4.14)  23 APR 2024 13:23
 entering extended mode
 **"./Factorization Method.tex"
 (Factorization Method.tex
@@ -695,20 +695,10 @@ Package biblatex Info: ... file 'blx-compat.def' found.
 (C:\Users\kales\AppData\Local\MiKTeX\tex/latex/biblatex\blx-compat.def
 File: blx-compat.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
 )
-Package biblatex Info: Trying to load BibTeX backend compatibility...
-Package biblatex Info: ... file 'blx-bibtex.def' found.
-
-(C:\Users\kales\AppData\Local\MiKTeX\tex/latex/biblatex\blx-bibtex.def
-File: blx-bibtex.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
-
-
-Package biblatex Warning: Using fall-back BibTeX(8) backend:
-(biblatex)                functionality may be reduced/unavailable.
-
-)
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
- (C:\Users\kales\AppData\Local\MiKTeX\tex/latex/biblatex\biblatex.def
+
+(C:\Users\kales\AppData\Local\MiKTeX\tex/latex/biblatex\biblatex.def
 File: biblatex.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
 \c@textcitecount=\count409
 \c@textcitetotal=\count410
@@ -760,39 +750,179 @@ Package biblatex Info: ... file 'biblatex.cfg' found.
 (C:\Users\kales\AppData\Local\MiKTeX\tex/latex/biblatex\biblatex.cfg
 File: biblatex.cfg 
 ))
-\c@theorem=\count420
-\c@definition=\count421
-\c@lemma=\count422
-\c@corollary=\count423
+(C:\Users\kales\AppData\Local\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2021-02-10 v7.00j Hypertext links for LaTeX
+
+(C:\Users\kales\AppData\Local\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (C:\Users\kales\AppData\Local\MiKTeX\tex/generic/pdfescape\pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(C:\Users\kales\AppData\Local\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Users\kales\AppData\Local\MiKTeX\tex/latex/letltxmacro\letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(C:\Users\kales\AppData\Local\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+\@linkdim=\dimen266
+\Hy@linkcounter=\count420
+\Hy@pagecounter=\count421
+
+(C:\Users\kales\AppData\Local\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2021-02-10 v7.00j Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(C:\Users\kales\AppData\Local\MiKTeX\tex/latex/hyperref\hyperref-langpatches.de
+f
+File: hyperref-langpatches.def 2021-02-10 v7.00j Hyperref: patches for babel la
+nguages
+) (C:\Users\kales\AppData\Local\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(C:\Users\kales\AppData\Local\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count422
+
+(C:\Users\kales\AppData\Local\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2021-02-10 v7.00j Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count423
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen267
+
+(C:\Users\kales\AppData\Local\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\kales\AppData\Local\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count424
+\Field@Width=\dimen268
+\Fld@charsize=\dimen269
+Package hyperref Info: Hyper figures OFF on input line 6075.
+Package hyperref Info: Link nesting OFF on input line 6080.
+Package hyperref Info: Hyper index ON on input line 6083.
+Package hyperref Info: backreferencing OFF on input line 6090.
+Package hyperref Info: Link coloring OFF on input line 6095.
+Package hyperref Info: Link coloring with OCG OFF on input line 6100.
+Package hyperref Info: PDF/A mode OFF on input line 6105.
+LaTeX Info: Redefining \ref on input line 6145.
+LaTeX Info: Redefining \pageref on input line 6149.
+
+(C:\Users\kales\AppData\Local\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
+ge
+with kernel methods
+)
+\Hy@abspage=\count425
+\c@Item=\count426
+\c@Hfootnote=\count427
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(C:\Users\kales\AppData\Local\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2021-02-10 v7.00j Hyperref driver for pdfTeX
+
+(C:\Users\kales\AppData\Local\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
+e
+with kernel methods
+)
+\Fld@listcount=\count428
+\c@bookmark@seq@number=\count429
+
+(C:\Users\kales\AppData\Local\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.st
+y
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+
+(C:\Users\kales\AppData\Local\MiKTeX\tex/generic/uniquecounter\uniquecounter.st
+y
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)
+\Hy@SectionHShift=\skip78
+) (C:\Users\kales\AppData\Local\MiKTeX\tex/latex/caption\subcaption.sty
+Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
+
+(C:\Users\kales\AppData\Local\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+
+(C:\Users\kales\AppData\Local\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen270
+\captionmargin=\dimen271
+\caption@leftmargin=\dimen272
+\caption@rightmargin=\dimen273
+\caption@width=\dimen274
+\caption@indent=\dimen275
+\caption@parindent=\dimen276
+\caption@hangindent=\dimen277
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count430
+\c@continuedfloat=\count431
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+)
+Package caption Info: New subtype `subfigure' on input line 238.
+\c@subfigure=\count432
+Package caption Info: New subtype `subtable' on input line 238.
+\c@subtable=\count433
+)
+\c@theorem=\count434
+\c@definition=\count435
+\c@lemma=\count436
+\c@corollary=\count437
 
 
 Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (biblatex)                Loading 'csquotes' recommended.
 
-\@quotelevel=\count424
-\@quotereset=\count425
+\@quotelevel=\count438
+\@quotereset=\count439
 (C:\Users\kales\AppData\Local\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2021-02-18 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count426
+\l__color_backend_stack_int=\count440
 \l__pdf_internal_box=\box63
 )
 (Factorization Method.aux)
 \openout1 = `"Factorization Method.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -830,31 +960,21 @@ LaTeX Font Info:    ... okay on input line 42.
 
 (C:\Users\kales\AppData\Local\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count427
-\scratchdimen=\dimen266
+\scratchcounter=\count441
+\scratchdimen=\dimen278
 \scratchbox=\box64
-\nofMPsegments=\count428
-\nofMParguments=\count429
+\nofMPsegments=\count442
+\nofMParguments=\count443
 \everyMPshowfont=\toks45
-\MPscratchCnt=\count430
-\MPscratchDim=\dimen267
-\MPnumerator=\count431
-\makeMPintoPDFobject=\count432
+\MPscratchCnt=\count444
+\MPscratchDim=\dimen279
+\MPnumerator=\count445
+\makeMPintoPDFobject=\count446
 \everyMPtoPDFconversion=\toks46
 ) (C:\Users\kales\AppData\Local\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-(C:\Users\kales\AppData\Local\MiKTeX\tex/latex/grfext\grfext.sty
-Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
-
-(C:\Users\kales\AppData\Local\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
-Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-))
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
-Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 504.
 )
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
@@ -864,9 +984,6 @@ File: english.lbx 2020/12/31 v3.16 biblatex localization (PK/MW)
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
-Package biblatex Info: Input encoding 'utf8' specified.
-Package biblatex Info: Data encoding 'utf8' specified.
-(biblatex)             No need to reencode data.
 Package biblatex Info: Document encoding is UTF8 ....
 
 (C:\Users\kales\AppData\Local\MiKTeX\tex/latex/l3kernel\expl3.sty
@@ -885,41 +1002,184 @@ Package: xparse 2020-10-27 L3 Experimental document command parser
 .tex))
 Package: blx-case-expl3 2020/12/31 v3.16 expl3 case changing code for biblatex
 )
-\openout4 = `Factorization_Method-blx.bib'.
+\openout4 = `"Factorization Method.bcf"'.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file '"Factorization Method".bbl' found.
  (Factorization Method.bbl)
-Package biblatex Info: Reference section=0 on input line 42.
-Package biblatex Info: Reference segment=0 on input line 42.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 58.
+Package biblatex Info: Reference section=0 on input line 44.
+Package biblatex Info: Reference segment=0 on input line 44.
+Package hyperref Info: Link coloring OFF on input line 44.
 
+(C:\Users\kales\AppData\Local\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+
+(C:\Users\kales\AppData\Local\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\kales\AppData\Local\MiKTeX\tex/generic/gettitlestring\gettitlestring.
+sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count447
+)
+LaTeX Info: Redefining \ref on input line 44.
+LaTeX Info: Redefining \pageref on input line 44.
+LaTeX Info: Redefining \nameref on input line 44.
+ (Factorization Method.out) (Factorization Method.out)
+\@outlinefile=\write5
+\openout5 = `"Factorization Method.out"'.
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+
+(Factorization Method.toc
+LaTeX Font Info:    Trying to load font information for U+msa on input line 8.
 
 (C:\Users\kales\AppData\Local\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 58.
-
+LaTeX Font Info:    Trying to load font information for U+msb on input line 8.
 
 (C:\Users\kales\AppData\Local\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [1
+))
+\tf@toc=\write6
+\openout6 = `"Factorization Method.toc"'.
+
+ [1
 
 {C:/Users/kales/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [2] [3] [4] [5]
+<Numeric Simulations/Images/Circle-Reconstructed.png, id=144, 421.575pt x 316.0
+608pt>
+File: Numeric Simulations/Images/Circle-Reconstructed.png Graphic file (type pn
+g)
+<use Numeric Simulations/Images/Circle-Reconstructed.png>
+Package pdftex.def Info: Numeric Simulations/Images/Circle-Reconstructed.png  u
+sed on input line 279.
+(pdftex.def)             Requested size: 140.92793pt x 105.65556pt.
+<Numeric Simulations/Images/ellipse-Reconstructed.png, id=145, 421.575pt x 316.
+0608pt>
+File: Numeric Simulations/Images/ellipse-Reconstructed.png Graphic file (type p
+ng)
+<use Numeric Simulations/Images/ellipse-Reconstructed.png>
+Package pdftex.def Info: Numeric Simulations/Images/ellipse-Reconstructed.png  
+used on input line 284.
+(pdftex.def)             Requested size: 140.92793pt x 105.65556pt.
+<Numeric Simulations/Images/kite-Reconstructed.png, id=146, 421.575pt x 316.060
+8pt>
+File: Numeric Simulations/Images/kite-Reconstructed.png Graphic file (type png)
 
-(Factorization Method.aux)
+<use Numeric Simulations/Images/kite-Reconstructed.png>
+Package pdftex.def Info: Numeric Simulations/Images/kite-Reconstructed.png  use
+d on input line 289.
+(pdftex.def)             Requested size: 140.92793pt x 105.65556pt.
+<Numeric Simulations/Images/circle-10-noise-reconstructed.png, id=152, 421.575p
+t x 316.0608pt>
+File: Numeric Simulations/Images/circle-10-noise-reconstructed.png Graphic file
+ (type png)
+<use Numeric Simulations/Images/circle-10-noise-reconstructed.png>
+Package pdftex.def Info: Numeric Simulations/Images/circle-10-noise-reconstruct
+ed.png  used on input line 302.
+(pdftex.def)             Requested size: 140.92793pt x 105.65556pt.
+<Numeric Simulations/Images/circle-20-noise-reconstructed.png, id=153, 421.575p
+t x 316.0608pt>
+File: Numeric Simulations/Images/circle-20-noise-reconstructed.png Graphic file
+ (type png)
+<use Numeric Simulations/Images/circle-20-noise-reconstructed.png>
+Package pdftex.def Info: Numeric Simulations/Images/circle-20-noise-reconstruct
+ed.png  used on input line 307.
+(pdftex.def)             Requested size: 140.92793pt x 105.65556pt.
+<Numeric Simulations/Images/circle-40-noise-reconstructed.png, id=154, 421.575p
+t x 316.0608pt>
+File: Numeric Simulations/Images/circle-40-noise-reconstructed.png Graphic file
+ (type png)
+<use Numeric Simulations/Images/circle-40-noise-reconstructed.png>
+Package pdftex.def Info: Numeric Simulations/Images/circle-40-noise-reconstruct
+ed.png  used on input line 312.
+(pdftex.def)             Requested size: 140.92793pt x 105.65556pt.
+<Numeric Simulations/Images/ellipse-10-noise-reconstructed.png, id=155, 421.575
+pt x 316.0608pt>
+File: Numeric Simulations/Images/ellipse-10-noise-reconstructed.png Graphic fil
+e (type png)
+<use Numeric Simulations/Images/ellipse-10-noise-reconstructed.png>
+Package pdftex.def Info: Numeric Simulations/Images/ellipse-10-noise-reconstruc
+ted.png  used on input line 322.
+(pdftex.def)             Requested size: 140.92793pt x 105.65556pt.
+<Numeric Simulations/Images/ellipse-20-noise-reconstructed.png, id=156, 421.575
+pt x 316.0608pt>
+File: Numeric Simulations/Images/ellipse-20-noise-reconstructed.png Graphic fil
+e (type png)
+<use Numeric Simulations/Images/ellipse-20-noise-reconstructed.png>
+Package pdftex.def Info: Numeric Simulations/Images/ellipse-20-noise-reconstruc
+ted.png  used on input line 327.
+(pdftex.def)             Requested size: 140.92793pt x 105.65556pt.
+<Numeric Simulations/Images/ellipse-40-noise-reconstructed.png, id=157, 421.575
+pt x 316.0608pt>
+File: Numeric Simulations/Images/ellipse-40-noise-reconstructed.png Graphic fil
+e (type png)
+<use Numeric Simulations/Images/ellipse-40-noise-reconstructed.png>
+Package pdftex.def Info: Numeric Simulations/Images/ellipse-40-noise-reconstruc
+ted.png  used on input line 332.
+(pdftex.def)             Requested size: 140.92793pt x 105.65556pt.
+<Numeric Simulations/Images/kite-10-noise-reconstructed.png, id=158, 421.575pt 
+x 316.0608pt>
+File: Numeric Simulations/Images/kite-10-noise-reconstructed.png Graphic file (
+type png)
+<use Numeric Simulations/Images/kite-10-noise-reconstructed.png>
+Package pdftex.def Info: Numeric Simulations/Images/kite-10-noise-reconstructed
+.png  used on input line 342.
+(pdftex.def)             Requested size: 140.92793pt x 105.65556pt.
+<Numeric Simulations/Images/kite-20-noise-reconstructed.png, id=159, 421.575pt 
+x 316.0608pt>
+File: Numeric Simulations/Images/kite-20-noise-reconstructed.png Graphic file (
+type png)
+<use Numeric Simulations/Images/kite-20-noise-reconstructed.png>
+Package pdftex.def Info: Numeric Simulations/Images/kite-20-noise-reconstructed
+.png  used on input line 347.
+(pdftex.def)             Requested size: 140.92793pt x 105.65556pt.
+<Numeric Simulations/Images/kite-40-noise-reconstructed.png, id=160, 421.575pt 
+x 316.0608pt>
+File: Numeric Simulations/Images/kite-40-noise-reconstructed.png Graphic file (
+type png)
+<use Numeric Simulations/Images/kite-40-noise-reconstructed.png>
+Package pdftex.def Info: Numeric Simulations/Images/kite-40-noise-reconstructed
+.png  used on input line 352.
+(pdftex.def)             Requested size: 140.92793pt x 105.65556pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[6 <./Numeric Simulations/Images/Circle-Reconstructed.png (PNG copy)> <./Numeri
+c Simulations/Images/ellipse-Reconstructed.png (PNG copy)> <./Numeric Simulatio
+ns/Images/kite-Reconstructed.png (PNG copy)> <./Numeric Simulations/Images/circ
+le-10-noise-reconstructed.png (PNG copy)> <./Numeric Simulations/Images/circle-
+20-noise-reconstructed.png (PNG copy)> <./Numeric Simulations/Images/circle-40-
+noise-reconstructed.png (PNG copy)>] [7 <./Numeric Simulations/Images/ellipse-1
+0-noise-reconstructed.png (PNG copy)> <./Numeric Simulations/Images/ellipse-20-
+noise-reconstructed.png (PNG copy)> <./Numeric Simulations/Images/ellipse-40-no
+ise-reconstructed.png (PNG copy)> <./Numeric Simulations/Images/kite-10-noise-r
+econstructed.png (PNG copy)> <./Numeric Simulations/Images/kite-20-noise-recons
+tructed.png (PNG copy)> <./Numeric Simulations/Images/kite-40-noise-reconstruct
+ed.png (PNG copy)>] (Factorization Method.aux)
+Package rerunfilecheck Info: File `"Factorization Method".out' has not changed.
+
+(rerunfilecheck)             Checksum: 60EB3CCA93D7004ED40A9E2316F0963C;1326.
 Package logreq Info: Writing requests to '"Factorization Method".run.xml'.
 \openout1 = `"Factorization Method.run.xml"'.
 
  ) 
 Here is how much of TeX's memory you used:
- 21750 strings out of 479334
- 425967 string characters out of 2861332
- 942274 words of memory out of 3000000
- 38861 multiletter control sequences out of 15000+200000
- 407991 words of font info for 44 fonts, out of 3000000 for 9000
+ 29130 strings out of 479334
+ 545080 string characters out of 2861332
+ 1269059 words of memory out of 3000000
+ 46065 multiletter control sequences out of 15000+200000
+ 408298 words of font info for 45 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 113i,11n,116p,1838b,1642s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 113i,11n,116p,1091b,1754s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/kales/AppData/Local/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pf
 b><C:/Users/kales/AppData/Local/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pf
 b><C:/Users/kales/AppData/Local/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb
@@ -938,9 +1198,9 @@ kales/AppData/Local/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/
 kales/AppData/Local/MiKTeX/fonts/type1/public/amsfonts/cm/cmti7.pfb><C:/Users/k
 ales/AppData/Local/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb><C:/Us
 ers/kales/AppData/Local/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm7.pfb>
-Output written on "Factorization Method.pdf" (5 pages, 213705 bytes).
+Output written on "Factorization Method.pdf" (7 pages, 2841942 bytes).
 PDF statistics:
- 93 PDF objects out of 1000 (max. 8388607)
- 0 named destinations out of 1000 (max. 500000)
- 13 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 253 PDF objects out of 1000 (max. 8388607)
+ 81 named destinations out of 1000 (max. 500000)
+ 121 words of extra memory for PDF output out of 10000 (max. 10000000)
 
