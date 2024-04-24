@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2023.4.14)  23 APR 2024 13:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2023.4.14)  23 APR 2024 20:09
 entering extended mode
 **"./Factorization Method.tex"
 (Factorization Method.tex
@@ -905,24 +905,24 @@ File: l3backend-pdftex.def 2021-02-18 L3 backend support: PDF output (pdfTeX)
 (Factorization Method.aux)
 \openout1 = `"Factorization Method.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1007,9 +1007,9 @@ Package: blx-case-expl3 2020/12/31 v3.16 expl3 case changing code for biblatex
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file '"Factorization Method".bbl' found.
  (Factorization Method.bbl)
-Package biblatex Info: Reference section=0 on input line 44.
-Package biblatex Info: Reference segment=0 on input line 44.
-Package hyperref Info: Link coloring OFF on input line 44.
+Package biblatex Info: Reference section=0 on input line 46.
+Package biblatex Info: Reference segment=0 on input line 46.
+Package hyperref Info: Link coloring OFF on input line 46.
 
 (C:\Users\kales\AppData\Local\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
@@ -1023,184 +1023,175 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count447
 )
-LaTeX Info: Redefining \ref on input line 44.
-LaTeX Info: Redefining \pageref on input line 44.
-LaTeX Info: Redefining \nameref on input line 44.
+LaTeX Info: Redefining \ref on input line 46.
+LaTeX Info: Redefining \pageref on input line 46.
+LaTeX Info: Redefining \nameref on input line 46.
  (Factorization Method.out) (Factorization Method.out)
 \@outlinefile=\write5
 \openout5 = `"Factorization Method.out"'.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 61.
 
-(Factorization Method.toc
-LaTeX Font Info:    Trying to load font information for U+msa on input line 8.
 
 (C:\Users\kales\AppData\Local\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 8.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 61.
+
 
 (C:\Users\kales\AppData\Local\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-))
-\tf@toc=\write6
-\openout6 = `"Factorization Method.toc"'.
-
- [1
+) [1
 
 {C:/Users/kales/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [2] [3] [4] [5]
-<Numeric Simulations/Images/Circle-Reconstructed.png, id=144, 421.575pt x 316.0
+<Numeric Simulations/Images/Circle-Reconstructed.png, id=159, 421.575pt x 316.0
 608pt>
 File: Numeric Simulations/Images/Circle-Reconstructed.png Graphic file (type pn
 g)
 <use Numeric Simulations/Images/Circle-Reconstructed.png>
 Package pdftex.def Info: Numeric Simulations/Images/Circle-Reconstructed.png  u
-sed on input line 279.
+sed on input line 284.
 (pdftex.def)             Requested size: 140.92793pt x 105.65556pt.
-<Numeric Simulations/Images/ellipse-Reconstructed.png, id=145, 421.575pt x 316.
+<Numeric Simulations/Images/ellipse-Reconstructed.png, id=160, 421.575pt x 316.
 0608pt>
 File: Numeric Simulations/Images/ellipse-Reconstructed.png Graphic file (type p
 ng)
 <use Numeric Simulations/Images/ellipse-Reconstructed.png>
 Package pdftex.def Info: Numeric Simulations/Images/ellipse-Reconstructed.png  
-used on input line 284.
+used on input line 289.
 (pdftex.def)             Requested size: 140.92793pt x 105.65556pt.
-<Numeric Simulations/Images/kite-Reconstructed.png, id=146, 421.575pt x 316.060
+<Numeric Simulations/Images/kite-Reconstructed.png, id=161, 421.575pt x 316.060
 8pt>
 File: Numeric Simulations/Images/kite-Reconstructed.png Graphic file (type png)
 
 <use Numeric Simulations/Images/kite-Reconstructed.png>
 Package pdftex.def Info: Numeric Simulations/Images/kite-Reconstructed.png  use
-d on input line 289.
+d on input line 294.
 (pdftex.def)             Requested size: 140.92793pt x 105.65556pt.
-<Numeric Simulations/Images/circle-10-noise-reconstructed.png, id=152, 421.575p
+<Numeric Simulations/Images/circle-10-noise-reconstructed.png, id=167, 421.575p
 t x 316.0608pt>
 File: Numeric Simulations/Images/circle-10-noise-reconstructed.png Graphic file
  (type png)
 <use Numeric Simulations/Images/circle-10-noise-reconstructed.png>
 Package pdftex.def Info: Numeric Simulations/Images/circle-10-noise-reconstruct
-ed.png  used on input line 302.
+ed.png  used on input line 308.
 (pdftex.def)             Requested size: 140.92793pt x 105.65556pt.
-<Numeric Simulations/Images/circle-20-noise-reconstructed.png, id=153, 421.575p
+<Numeric Simulations/Images/circle-20-noise-reconstructed.png, id=168, 421.575p
 t x 316.0608pt>
 File: Numeric Simulations/Images/circle-20-noise-reconstructed.png Graphic file
  (type png)
 <use Numeric Simulations/Images/circle-20-noise-reconstructed.png>
 Package pdftex.def Info: Numeric Simulations/Images/circle-20-noise-reconstruct
-ed.png  used on input line 307.
+ed.png  used on input line 313.
 (pdftex.def)             Requested size: 140.92793pt x 105.65556pt.
-<Numeric Simulations/Images/circle-40-noise-reconstructed.png, id=154, 421.575p
+<Numeric Simulations/Images/circle-40-noise-reconstructed.png, id=169, 421.575p
 t x 316.0608pt>
 File: Numeric Simulations/Images/circle-40-noise-reconstructed.png Graphic file
  (type png)
 <use Numeric Simulations/Images/circle-40-noise-reconstructed.png>
 Package pdftex.def Info: Numeric Simulations/Images/circle-40-noise-reconstruct
-ed.png  used on input line 312.
+ed.png  used on input line 318.
 (pdftex.def)             Requested size: 140.92793pt x 105.65556pt.
-<Numeric Simulations/Images/ellipse-10-noise-reconstructed.png, id=155, 421.575
+<Numeric Simulations/Images/ellipse-10-noise-reconstructed.png, id=170, 421.575
 pt x 316.0608pt>
 File: Numeric Simulations/Images/ellipse-10-noise-reconstructed.png Graphic fil
 e (type png)
 <use Numeric Simulations/Images/ellipse-10-noise-reconstructed.png>
 Package pdftex.def Info: Numeric Simulations/Images/ellipse-10-noise-reconstruc
-ted.png  used on input line 322.
+ted.png  used on input line 328.
 (pdftex.def)             Requested size: 140.92793pt x 105.65556pt.
-<Numeric Simulations/Images/ellipse-20-noise-reconstructed.png, id=156, 421.575
+<Numeric Simulations/Images/ellipse-20-noise-reconstructed.png, id=171, 421.575
 pt x 316.0608pt>
 File: Numeric Simulations/Images/ellipse-20-noise-reconstructed.png Graphic fil
 e (type png)
 <use Numeric Simulations/Images/ellipse-20-noise-reconstructed.png>
 Package pdftex.def Info: Numeric Simulations/Images/ellipse-20-noise-reconstruc
-ted.png  used on input line 327.
+ted.png  used on input line 333.
 (pdftex.def)             Requested size: 140.92793pt x 105.65556pt.
-<Numeric Simulations/Images/ellipse-40-noise-reconstructed.png, id=157, 421.575
+<Numeric Simulations/Images/ellipse-40-noise-reconstructed.png, id=172, 421.575
 pt x 316.0608pt>
 File: Numeric Simulations/Images/ellipse-40-noise-reconstructed.png Graphic fil
 e (type png)
 <use Numeric Simulations/Images/ellipse-40-noise-reconstructed.png>
 Package pdftex.def Info: Numeric Simulations/Images/ellipse-40-noise-reconstruc
-ted.png  used on input line 332.
+ted.png  used on input line 338.
 (pdftex.def)             Requested size: 140.92793pt x 105.65556pt.
-<Numeric Simulations/Images/kite-10-noise-reconstructed.png, id=158, 421.575pt 
+<Numeric Simulations/Images/kite-10-noise-reconstructed.png, id=173, 421.575pt 
 x 316.0608pt>
 File: Numeric Simulations/Images/kite-10-noise-reconstructed.png Graphic file (
 type png)
 <use Numeric Simulations/Images/kite-10-noise-reconstructed.png>
 Package pdftex.def Info: Numeric Simulations/Images/kite-10-noise-reconstructed
-.png  used on input line 342.
+.png  used on input line 348.
 (pdftex.def)             Requested size: 140.92793pt x 105.65556pt.
-<Numeric Simulations/Images/kite-20-noise-reconstructed.png, id=159, 421.575pt 
+<Numeric Simulations/Images/kite-20-noise-reconstructed.png, id=174, 421.575pt 
 x 316.0608pt>
 File: Numeric Simulations/Images/kite-20-noise-reconstructed.png Graphic file (
 type png)
 <use Numeric Simulations/Images/kite-20-noise-reconstructed.png>
 Package pdftex.def Info: Numeric Simulations/Images/kite-20-noise-reconstructed
-.png  used on input line 347.
+.png  used on input line 353.
 (pdftex.def)             Requested size: 140.92793pt x 105.65556pt.
-<Numeric Simulations/Images/kite-40-noise-reconstructed.png, id=160, 421.575pt 
+<Numeric Simulations/Images/kite-40-noise-reconstructed.png, id=175, 421.575pt 
 x 316.0608pt>
 File: Numeric Simulations/Images/kite-40-noise-reconstructed.png Graphic file (
 type png)
 <use Numeric Simulations/Images/kite-40-noise-reconstructed.png>
 Package pdftex.def Info: Numeric Simulations/Images/kite-40-noise-reconstructed
-.png  used on input line 352.
+.png  used on input line 358.
 (pdftex.def)             Requested size: 140.92793pt x 105.65556pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[6 <./Numeric Simulations/Images/Circle-Reconstructed.png (PNG copy)> <./Numeri
-c Simulations/Images/ellipse-Reconstructed.png (PNG copy)> <./Numeric Simulatio
-ns/Images/kite-Reconstructed.png (PNG copy)> <./Numeric Simulations/Images/circ
-le-10-noise-reconstructed.png (PNG copy)> <./Numeric Simulations/Images/circle-
-20-noise-reconstructed.png (PNG copy)> <./Numeric Simulations/Images/circle-40-
-noise-reconstructed.png (PNG copy)>] [7 <./Numeric Simulations/Images/ellipse-1
-0-noise-reconstructed.png (PNG copy)> <./Numeric Simulations/Images/ellipse-20-
-noise-reconstructed.png (PNG copy)> <./Numeric Simulations/Images/ellipse-40-no
-ise-reconstructed.png (PNG copy)> <./Numeric Simulations/Images/kite-10-noise-r
-econstructed.png (PNG copy)> <./Numeric Simulations/Images/kite-20-noise-recons
-tructed.png (PNG copy)> <./Numeric Simulations/Images/kite-40-noise-reconstruct
-ed.png (PNG copy)>] (Factorization Method.aux)
+ [6 <./Numeric Simulations/Images/Circle-Reconstructed.png (PNG copy)> <./Numer
+ic Simulations/Images/ellipse-Reconstructed.png (PNG copy)> <./Numeric Simulati
+ons/Images/kite-Reconstructed.png (PNG copy)>] [7 <./Numeric Simulations/Images
+/circle-10-noise-reconstructed.png (PNG copy)> <./Numeric Simulations/Images/ci
+rcle-20-noise-reconstructed.png (PNG copy)> <./Numeric Simulations/Images/circl
+e-40-noise-reconstructed.png (PNG copy)> <./Numeric Simulations/Images/ellipse-
+10-noise-reconstructed.png (PNG copy)> <./Numeric Simulations/Images/ellipse-20
+-noise-reconstructed.png (PNG copy)> <./Numeric Simulations/Images/ellipse-40-n
+oise-reconstructed.png (PNG copy)> <./Numeric Simulations/Images/kite-10-noise-
+reconstructed.png (PNG copy)> <./Numeric Simulations/Images/kite-20-noise-recon
+structed.png (PNG copy)> <./Numeric Simulations/Images/kite-40-noise-reconstruc
+ted.png (PNG copy)>] [8] (Factorization Method.aux)
 Package rerunfilecheck Info: File `"Factorization Method".out' has not changed.
 
-(rerunfilecheck)             Checksum: 60EB3CCA93D7004ED40A9E2316F0963C;1326.
+(rerunfilecheck)             Checksum: 0871C0A93E25347B42A373B1809ACC89;1500.
 Package logreq Info: Writing requests to '"Factorization Method".run.xml'.
 \openout1 = `"Factorization Method.run.xml"'.
 
  ) 
 Here is how much of TeX's memory you used:
- 29130 strings out of 479334
- 545080 string characters out of 2861332
- 1269059 words of memory out of 3000000
- 46065 multiletter control sequences out of 15000+200000
- 408298 words of font info for 45 fonts, out of 3000000 for 9000
+ 29134 strings out of 479334
+ 545062 string characters out of 2861332
+ 1270419 words of memory out of 3000000
+ 46075 multiletter control sequences out of 15000+200000
+ 408657 words of font info for 46 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 113i,11n,116p,1091b,1754s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 113i,11n,116p,1137b,1684s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/kales/AppData/Local/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pf
 b><C:/Users/kales/AppData/Local/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pf
 b><C:/Users/kales/AppData/Local/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb
-><C:/Users/kales/AppData/Local/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb
-><C:/Users/kales/AppData/Local/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb
-><C:/Users/kales/AppData/Local/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb>
-<C:/Users/kales/AppData/Local/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><
-C:/Users/kales/AppData/Local/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C
-:/Users/kales/AppData/Local/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:
-/Users/kales/AppData/Local/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/U
-sers/kales/AppData/Local/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Use
-rs/kales/AppData/Local/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users
-/kales/AppData/Local/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users
-/kales/AppData/Local/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/
-kales/AppData/Local/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/
-kales/AppData/Local/MiKTeX/fonts/type1/public/amsfonts/cm/cmti7.pfb><C:/Users/k
-ales/AppData/Local/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb><C:/Us
-ers/kales/AppData/Local/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm7.pfb>
-Output written on "Factorization Method.pdf" (7 pages, 2841942 bytes).
+><C:/Users/kales/AppData/Local/MiKTeX/fonts/type1/public/amsfonts/cm/cmbxti10.p
+fb><C:/Users/kales/AppData/Local/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.p
+fb><C:/Users/kales/AppData/Local/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.p
+fb><C:/Users/kales/AppData/Local/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pf
+b><C:/Users/kales/AppData/Local/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb
+><C:/Users/kales/AppData/Local/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+<C:/Users/kales/AppData/Local/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><
+C:/Users/kales/AppData/Local/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:
+/Users/kales/AppData/Local/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/U
+sers/kales/AppData/Local/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Use
+rs/kales/AppData/Local/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Use
+rs/kales/AppData/Local/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/User
+s/kales/AppData/Local/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/User
+s/kales/AppData/Local/MiKTeX/fonts/type1/public/amsfonts/cm/cmti7.pfb><C:/Users
+/kales/AppData/Local/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb><C:/
+Users/kales/AppData/Local/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm7.pfb>
+
+Output written on "Factorization Method.pdf" (8 pages, 2863594 bytes).
 PDF statistics:
- 253 PDF objects out of 1000 (max. 8388607)
- 81 named destinations out of 1000 (max. 500000)
- 121 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 274 PDF objects out of 1000 (max. 8388607)
+ 77 named destinations out of 1000 (max. 500000)
+ 137 words of extra memory for PDF output out of 10000 (max. 10000000)
 

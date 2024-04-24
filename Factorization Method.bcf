@@ -2347,9 +2347,8 @@
     <bcf:citekey order="1">kirschgrinberg2008</bcf:citekey>
     <bcf:citekey order="2">kirschgrinberg2008</bcf:citekey>
     <bcf:citekey order="3">coltonkress2013</bcf:citekey>
-    <bcf:citekey order="4">kirschgrinberg2008</bcf:citekey>
-    <bcf:citekey order="5">potthast2015</bcf:citekey>
-    <bcf:citekey order="6">hansen1988</bcf:citekey>
+    <bcf:citekey order="4">potthast2015</bcf:citekey>
+    <bcf:citekey order="5">hansen1988</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">
